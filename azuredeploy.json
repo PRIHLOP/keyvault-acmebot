@@ -114,10 +114,10 @@
       "apiVersion": "2020-06-01",
       "location": "[resourceGroup().location]",
       "sku": {
-        "name": "Y1",
-        "tier": "Dynamic",
-        "size": "Y1",
-        "family": "Y"
+        "name": "F1",
+        "tier": "Free",
+        "size": "F1",
+        "family": "F"
       }
     },
     {
